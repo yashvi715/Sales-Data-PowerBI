@@ -1,5 +1,5 @@
 <h1>📊 Power BI Sales Analysis Project</h1>
-📁 Project Overview
+<h2>📁 Project Overview</h2> 
 This Power BI project provides a comprehensive sales analysis dashboard for a fictional or real-time sales dataset stored in SalesData.xlsx. The dashboard was created using Microsoft Power BI Desktop and is saved in the file SalesData_GTU.pbix.
 
 The project aims to help business stakeholders understand key sales metrics, trends, and performance indicators to support data-driven decision-making.
